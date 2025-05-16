@@ -38,7 +38,7 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
   * [Plain PHP](#plain-php)
   * [Python: Django](#python-django)
   * [Python: Django + Crispy](#python-django--crispy)
-  * [Python: Flask](#python-flask)
+  * [Python: Flask](#python-flask)j
   * [Ruby/Rails](#rubyrails)
   * [Rust](#rust)
 - [Serverless Backend](#serverless-backend)
